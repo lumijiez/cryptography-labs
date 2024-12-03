@@ -1,5 +1,8 @@
 package org.lumijiez;
 
+import org.lumijiez.caesar.DoubleCaesar;
+import org.lumijiez.caesar.SimpleCaesar;
+
 import java.util.Scanner;
 
 public class Main {

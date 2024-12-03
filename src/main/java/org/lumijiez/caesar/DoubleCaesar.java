@@ -1,4 +1,6 @@
-package org.lumijiez;
+package org.lumijiez.caesar;
+
+import org.lumijiez.Utils;
 
 public class DoubleCaesar {
     public static String encode(int key, String keyWord, String content) {

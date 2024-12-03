@@ -1,4 +1,6 @@
-package org.lumijiez;
+package org.lumijiez.caesar;
+
+import org.lumijiez.Utils;
 
 public class SimpleCaesar {
     public static String encode(int key, String content) {

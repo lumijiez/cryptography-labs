@@ -1,4 +1,4 @@
-package org.lumijiez;
+package org.lumijiez.vigenere;
 
 import com.github.freva.asciitable.AsciiTable;
 import com.github.freva.asciitable.Column;
